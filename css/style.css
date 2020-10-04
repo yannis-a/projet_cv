@@ -472,8 +472,10 @@ footer .c {
 }
 
 footer img {
-    margin-top: 7%;
-    width: 30px
+    margin-bottom: 3%;
+    margin-top: 3%;
+    width: 30px;
+    vertical-align: center;
 }
 
 .follow li {
@@ -484,7 +486,6 @@ footer img {
 footer li, footer a {
     text-decoration: none;
     list-style: none;
-    text-align: left;
 }
 
 footer ul {
